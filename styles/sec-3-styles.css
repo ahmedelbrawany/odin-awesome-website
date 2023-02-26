@@ -1,0 +1,21 @@
+.sec-3{
+    display: flex;
+    flex-flow: column;
+    background-color: #e5e7eb;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 100px;
+}
+
+.sec-3-quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    width: 740px;
+}
+
+.sec-3-wroteby{
+    font-weight: bolder;
+    align-self: flex-end;
+}
