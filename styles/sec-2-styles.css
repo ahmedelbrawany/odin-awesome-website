@@ -1,0 +1,40 @@
+
+.sec-2{
+    display: flex;
+    flex-flow: column;
+    gap: 30px;
+}
+.sec-2-header{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    text-align: center;
+}
+
+.sec-2-row{
+    display: flex;
+    
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.sec-2-card{
+    display: flex;
+    flex-flow: column;
+    
+    gap: 10px;
+}
+
+.card-img{
+    border: 3px solid #3388f6;
+    border-radius: 1rem;
+    width: 130px;
+    height: 130px;
+}
+
+.img-subtext{
+    width: 130px;
+    text-align: center;
+}
