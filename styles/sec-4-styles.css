@@ -1,0 +1,45 @@
+.sec-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.call-action-container{
+    width: 700px;
+    background-color: #3382f6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 80px;
+    border-radius: .5rem;
+    gap: 24px;
+
+}
+
+.call-action-text{
+    display: flex;
+    flex-flow: column;
+    gap: 5px;
+}
+
+.call-action-header{
+    color: #f9faf8;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.call-action-subtext{
+    color: #e5e7eb;
+    font-size: 15px;
+}
+
+.call-action-btn{
+    border: 2px solid white;
+    color: #f9faf8;
+    font-size: 15px;
+    font-weight: bold;
+
+  
+}
