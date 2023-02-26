@@ -1,0 +1,37 @@
+*{
+    font: roboto;
+}
+
+html,body{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+ul{
+    list-style-type: none;
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    gap: 20px;
+
+}
+
+a{
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
+.sec-1{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /*padding: auto 50;*/
+}
+
+.header-logo{
+    font-size: 24px;
+    color: #f9faf8;
+}
+
